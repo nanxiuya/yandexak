@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanxiuya.github.io/yandexak/sitemap.xml
